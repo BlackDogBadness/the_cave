@@ -5,19 +5,19 @@ A fun game
 
 1. Blue
 2.
-3.
+3. Burgundy
 4.
 
 ## Maria
 
 1. Red
 2. Yellow
-3.
+3. Gold
 4.
 
 ## Leah
 
 1. Turquoise
-2.
+2. Orange
 3.
 4.
